@@ -58,14 +58,14 @@ A modern job board application built with Next.js 14, Tailwind CSS, and TypeScri
 1. Clone the repository
 
 ```shellscript
-git clone https://github.com/Sujeet2705/job-board-platform.git
+git clone https://github.com/Sujeet2705/Job-Portal.git
 ```
 
 
 2. Navigate to the project directory
 
 ```shellscript
-cd job-board-platform
+cd Job-Portal
 ```
 
 
@@ -132,7 +132,7 @@ pnpm dev
 ## 📁 Project Structure
 
 ```plaintext
-job-board-platform/
+Job-Portal/
 ├── app/                  # Next.js App Router pages
 │   ├── auth/             # Authentication pages
 │   ├── dashboard/        # Dashboard pages
